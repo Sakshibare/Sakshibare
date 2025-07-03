@@ -1,13 +1,12 @@
  # 💃 Hey, Welcome to My GitHub World!  
-**Passionate Coder | Aspiring Data Analyst | Knowledge Explorer**
+**Passionate Coder | Knowledge Explorer**
 
 ---
 
 ### 👩‍💻 **About Me**  
-- 🖥️ **BCA 2nd Year Student** driven by a love for coding and creating impactful projects.  
+- 🖥️ **BCA 3rd Year Student** driven by a love for coding and creating impactful projects.  
 - 🌟 I bring passion and dedication to every project I undertake, always striving for excellence.  
-- 📊 Aspiring to become a **Data Analyst**, diving deep into the world of data to uncover insights.  
-- 🌍 A lifelong **explorer**, eager to learn and grow, seizing every opportunity to expand my knowledge.
+ - 🌍 A lifelong **explorer**, eager to learn and grow, seizing every opportunity to expand my knowledge.
 
 ---
 
@@ -19,14 +18,14 @@
 ---
 
 ### ⚡ **Current Focus**  
-- Building innovative projects with **C++**, **HTML/CSS**, and more.  
-- Enhancing my skills in **Data Analytics** and exploring tools like Python, SQL, and Power BI.  
+- Building innovative projects...
+   
 
 ---
 
 ### 📫 **Let’s Connect!**  
 🌐 **Portfolio:** *Coming Soon!*  
-💌 **Email:** [sakshihibare1@gmail.com](mailto:sakshihibare1@gmail.com)  
+💌 **Email:** [sakshihibare1@gmail.com](mailto:sakshiihibare1@gmail.com)  
 🌟 **GitHub:** [github.com/sakshibare](https://github.com/sakshibare)  
 
 ---
