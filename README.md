@@ -24,7 +24,7 @@
 ---
 
 ### 📫 **Let’s Connect!**  
-🌐 **Portfolio:** *Coming Soon!*  
+🌐 **Portfolio:** * https://sakshii-hibare-7vlx2wc.gamma.site/*  
 💌 **Email:** [sakshihibare1@gmail.com](mailto:sakshiihibare1@gmail.com)  
 🌟 **GitHub:** [github.com/sakshibare](https://github.com/sakshibare)  
 
